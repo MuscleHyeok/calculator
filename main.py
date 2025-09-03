@@ -49,3 +49,7 @@ if __name__ == '__main__':
     app=QApplication(sys.argv)
     view=Calculator()
     sys.exit(app.exec_())
+
+
+    #메인수정1 238
+    #메인수정2 303
